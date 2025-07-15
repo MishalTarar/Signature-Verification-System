@@ -12,14 +12,10 @@ A desktop-based signature verification application that uses **ORB feature extra
 - Adjustable match threshold
 - GUI powered by Tkinter + ttkbootstrap (Dark Theme)
 
----
-
 ## Tech Stack
 
 - **Language:** Python 3.x  
 - **Libraries:** OpenCV, NumPy, Tkinter, ttkbootstrap, PIL (Pillow)
-
----
 
 ## How It Works
 
@@ -38,7 +34,6 @@ A desktop-based signature verification application that uses **ORB feature extra
    - Draws top 20 matches
    - Displays a match/mismatch result based on a user-defined threshold
 
----
 
 ## Installation
 
